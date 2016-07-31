@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<configuration>
+    <panwheel visible="true" fullexticon="com/esri/Navigation/assets/images/i_globe.png"  />
+    <prevextbutton visible="true"/>
+    <nextextbutton visible="true"/>
+    <panbutton visible="true" icon="com/esri/Navigation/assets/images/i_pan.png" />
+    <zoominbutton visible="true" icon="com/esri/Navigation/assets/images/i_zoomin.png" />
+    <zoomoutbutton visible="true" icon="com/esri/Navigation/assets/images/i_zoomout.png" />
+</configuration>
+
+<!--
+    See Navigation widget documentation at
+    http://help.arcgis.com/en/webapps/flexviewer/help/widgets/navigation_widget.htm
+-->
